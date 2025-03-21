@@ -64,7 +64,7 @@ function bearyExpressie() {
     stopAllAudio();
     audioBanaan.play();
     console.log("Bananen test, zie je mij?");
-    pText.textContent = "Bleh, dit vindt hij niet leuk. Probeer iets anders.";
+    pText.textContent = "Bleh, dit vindt zij niet leuk. Probeer iets anders.";
   } else if (bloemStatus == true) {
     bear.src = "./images/beary_bloemen.png";
     stopAllAudio();
